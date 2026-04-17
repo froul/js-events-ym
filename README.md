@@ -318,10 +318,6 @@ ym(XXXXXXXX, 'init', {
 // Или вызовите в консоли:
 window._ym_debug = 1;
 ```
-
-Также можно использовать браузерное расширение **Яндекс.Метрика Debugger**:  
-https://chromewebstore.google.com/detail/яндексметрика-debugger/haflbbkfmocnfklkfohgekhgkhikhkli
-
 ---
 
 ## Ссылки на документацию
